@@ -25,6 +25,9 @@
     "replace": {
         "pear/ole": "dev-master"
     },
+    "conflict": {
+        "peal/ole": "dev-master"
+    },
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=OLE",
         "source": "https://github.com/pear/OLE"
