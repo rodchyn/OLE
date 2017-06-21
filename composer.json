@@ -23,7 +23,7 @@
     "license": "PHP",
     "name": "rodchyn/ole",
     "replace": {
-        "rodchyn/ole": "dev-master"
+        "pear/ole": "dev-master"
     },
     "support": {
         "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=OLE",
